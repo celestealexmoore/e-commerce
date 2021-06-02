@@ -25,7 +25,10 @@
   
   ## Installation
   
-  Coming Soon
+  Install the dependencies required by running the following commands: (after running npm i)
+  npm install mysql2
+  npm install sequelize
+  npm install dotenv
 
   ## Contributors
   This project was created by Celeste Moore.
